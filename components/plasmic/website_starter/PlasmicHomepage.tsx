@@ -164,7 +164,9 @@ function PlasmicHomepage__RenderFunc(props: {
                 sty.h1
               )}
             >
-              {"Welcome to your first page."}
+              {
+                "Welcome to page created for T Salami just for demo purpose if you want can show you the changes as test"
+              }
             </h1>
             <PlasmicLink__
               data-plasmic-name={"link"}
