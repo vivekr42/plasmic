@@ -165,7 +165,7 @@ function PlasmicHomepage__RenderFunc(props: {
               )}
             >
               {
-                "Welcome to page created for T Salami just for demo purpose if you want can show you the changes as test"
+                "Welcome to page created for T Salami just for demo purpose if you want can show you the changes as test here"
               }
             </h1>
             <PlasmicLink__
@@ -204,7 +204,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 </span>
                 <React.Fragment>
                   {
-                    " button in the top right and follow the quickstart instructions.\n\nJoin our Slack community (icon in bottom left) for help any time."
+                    " button in the top right and follow the quickstart instructions.\n\nJoin our Slack community (icon in bottom left) for help any time.uedjinedhewhduendicybed8yhcx8uyedv8ycgr0v9ej"
                   }
                 </React.Fragment>
               </React.Fragment>
